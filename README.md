@@ -11,12 +11,7 @@ To view the website, simply open the index.html file in your preferred web brows
 1. HTML
 3. CSS
 4. Font Awesome
-5. Features
-6. Responsive design
-7. Navigation menu
-8. Showcase section
-9. Home cards section
-10. Xbox section
+
 
  # Acknowledgments
  
